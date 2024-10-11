@@ -32,7 +32,7 @@ A classe `ViaCEPService` consulta informações de endereço usando o serviço V
 ### Passos
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/GerenciamentoClientesAPI.git
+   git clone https://github.com/Ruan92929/GerenciamentoDeClientesAPI.git
 2. Restaure as dependências:
    dotnet restore
 3. Configure a string de conexão no appsettings.json:
