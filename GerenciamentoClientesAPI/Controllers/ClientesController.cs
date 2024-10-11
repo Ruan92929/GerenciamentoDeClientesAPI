@@ -1,5 +1,4 @@
-﻿using GerenciamentoClientesAPI.Models;
-using GerenciamentoClientesAPI.Services.Clientes;
+﻿using GerenciamentoClientesAPI.Services.Clientes;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GerenciamentoClientesAPI.Controllers

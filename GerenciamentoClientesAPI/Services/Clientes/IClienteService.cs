@@ -1,6 +1,4 @@
-﻿using GerenciamentoClientesAPI.Models;
-
-namespace GerenciamentoClientesAPI.Services.Clientes
+﻿namespace GerenciamentoClientesAPI.Services.Clientes
 {
     public interface IClienteService
     {

@@ -1,5 +1,4 @@
-﻿using GerenciamentoClientesAPI.Models;
-using GerenciamentoClientesAPI.Repositories.Clientes;
+﻿using GerenciamentoClientesAPI.Repositories.Clientes;
 
 namespace GerenciamentoClientesAPI.Services.Clientes
 {

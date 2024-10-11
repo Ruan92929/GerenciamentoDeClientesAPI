@@ -1,6 +1,4 @@
-﻿using GerenciamentoClientesAPI.Models;
-
-namespace GerenciamentoClientesAPI.Services.ViaCEP
+﻿namespace GerenciamentoClientesAPI.Services.ViaCEP
 {
     public interface IViaCEPService
     {
