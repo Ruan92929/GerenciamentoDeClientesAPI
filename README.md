@@ -10,6 +10,10 @@ Permite listar, criar, atualizar e excluir clientes usando **Entity Framework Co
 - **Criar Cliente**: Adicionar um novo cliente.
 - **Atualizar Cliente**: Modificar dados de um cliente existente.
 - **Excluir Cliente**: Remover um cliente.
+- **Consultar Endereço por CEP**: Utiliza o serviço ViaCEP para buscar informações de endereço a partir de um CEP.
+
+### ViaCEPService
+A classe `ViaCEPService` consulta informações de endereço usando o serviço ViaCEP.
 
 ## Estrutura do Projeto
 - **Controllers**: Exposição dos endpoints da API.
@@ -17,6 +21,7 @@ Permite listar, criar, atualizar e excluir clientes usando **Entity Framework Co
 - **Repositories**: Interação com o banco de dados.
 - **Models**: Entidades do sistema (Cliente, Endereço, Telefone, Email).
 - **Data**: Configuração do banco de dados.
+
 
 ## Como Executar
 
